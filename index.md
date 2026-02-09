@@ -4,14 +4,15 @@ title: MNFG Lab
 ---
 
 <nav>
-  <a href="/">Home</a> |
-  <a href="/about">About</a> |
-  <a href="/research">Research</a> |
-  <a href="/people">People</a> |
-  <a href="/publications">Publications</a> |
-  <a href="/mentor">Mentor</a> |
-  <a href="/contact">Contact</a>
+  <a href="index.html">Home</a> |
+  <a href="about.html">About</a> |
+  <a href="research.html">Research</a> |
+  <a href="people.html">People</a> |
+  <a href="publications.html">Publications</a> |
+  <a href="mentor.html">Mentor</a> |
+  <a href="contact.html">Contact</a>
 </nav>
+
 
 ---
 
