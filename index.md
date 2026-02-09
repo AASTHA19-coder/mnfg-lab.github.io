@@ -1,3 +1,20 @@
+---
+layout: default
+title: MNFG Lab
+---
+
+<nav>
+  <a href="/">Home</a> |
+  <a href="/about">About</a> |
+  <a href="/research">Research</a> |
+  <a href="/people">People</a> |
+  <a href="/publications">Publications</a> |
+  <a href="/mentor">Mentor</a> |
+  <a href="/contact">Contact</a>
+</nav>
+
+---
+
 # Molecular Neuroscience and Functional Genomics (MNFG) Lab
 
 **Delhi Technological University (DTU)**
